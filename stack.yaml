@@ -1,0 +1,6 @@
+resolver: lts-14.4
+packages:
+- .
+extra-deps:
+- github: klappvisor/haskell-telegram-api
+  commit: master
