@@ -38,6 +38,7 @@ executables:
     - -Wpartial-fields
     - -Wredundant-constraints
     dependencies:
+    - aeson
     - http-client
     - http-client-tls
     - http-types
